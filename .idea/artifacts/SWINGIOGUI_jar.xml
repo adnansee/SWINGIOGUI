@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SWINGIOGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SWINGIOGUI_jar</output-path>
+    <root id="archive" name="SWINGIOGUI.jar">
+      <element id="module-output" name="SWINGIOGUI" />
+    </root>
+  </artifact>
+</component>
